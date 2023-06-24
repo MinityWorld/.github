@@ -6,4 +6,4 @@ On our network players can buy realms, farm for glory, and conquer the Minecraft
 
 [![Discord](https://img.shields.io/badge/Discord%20Server-JOIN%20NOW-%237289da?style=for-the-badge&logo=discord)](https://discord.gg/PY84sXTSmG)
 
-[![Twitter](https://img.shields.io/twitter/follow/minityworld?color=%231DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/minityworld)]
+[![Twitter](https://img.shields.io/twitter/follow/MinityWorld?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MinityWorld/followers)
