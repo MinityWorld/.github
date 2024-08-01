@@ -1,4 +1,4 @@
-<img src="./assets/MinityWorld Banner.png" alt="MinityWorld Banner" />
+<img src="./assets/mw-banner.png" alt="MinityWorld Banner" />
 
 <div align="center">
   <br>
@@ -63,5 +63,5 @@
 </div>
 
 <div align="center" style="border-top: 1px solid #ccc; padding: 20px; margin-top: 20px;">
-  <img src="./assets/MinityWorld Banner.png" alt="MinityWorld Banner"/>
+  <img src="./assets/mw-banner.png" alt="MinityWorld Banner"/>
 </div>
