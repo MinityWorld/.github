@@ -17,7 +17,7 @@
     <br>
     <h1>Tycoon</h1>
     <p>
-        The "Tycoon" game mode offers an engaging and immersive experience that blends elements from various genres. In this mode, you start on a small island and work to build your empire from scratch. Your primary goal is to manage resources effectively and continuously expand your base to become the ultimate tycoon. As you progress through the game, you'll face a variety of challenges and uncover new adventures. The gameplay emphasizes automation and creativity, requiring you to gather resources and generate power in innovative ways.
+        The "Tycoon" game mode offers an engaging and immersive experience that blends elements from various games. In this mode, you start on a small island and work to build your empire from scratch. Your primary goal is to manage resources effectively and continuously expand your base to become the ultimate tycoon. As you progress through the game, you'll face a variety of challenges and uncover new adventures. The gameplay emphasizes automation and creativity, requiring you to gather resources and generate power in innovative ways.
     </p>
 </div>
 
